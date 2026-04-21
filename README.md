@@ -25,7 +25,7 @@ La simulación reproduce la trayectoria de transferencia Tierra-Luna, incluyendo
 
 | Archivo | Descripción |
 |--------|-------------|
-| [📹 simulacion.mp4](https://www.linkedin.com/feed/update/urn:li:activity:7452177363116896256/?originTrackingId=Vfqv91WpVnYRDHs4WMqEtw%3D%3D)) | Visualización de la trayectoria simulada |
+| [📹 Simulacion.mp4](https://www.linkedin.com/feed/update/urn:li:activity:7452177363116896256/?originTrackingId=Vfqv91WpVnYRDHs4WMqEtw%3D%3D) | Visualización de la trayectoria simulada |
 | [📝 informe.pdf](https://github.com/gonza-gareis/artemis-ii-simulacion/blob/main/Artemis.pdf) | Desarrollo completo en LaTeX |
 
 ---
